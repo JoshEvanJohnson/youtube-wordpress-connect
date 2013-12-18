@@ -16,7 +16,7 @@ First Version Release.
 = Limitations of this version =
 
 = Get in touch =
-contact@bigjmedia.com with a subject line "Youtube Wordpress Connect"
+josh@resultsonlyweb.com with a subject line "Youtube Wordpress Connect"
 
 == Installation ==
 
